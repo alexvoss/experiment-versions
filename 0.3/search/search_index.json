@@ -1,0 +1,1 @@
+{"config":{"lang":["en"],"separator":"[\\s\\-]+","pipeline":["stopWordFilter"],"fields":{"title":{"boost":1000.0},"text":{"boost":1.0},"tags":{"boost":1000000.0}}},"docs":[{"location":"","title":"Versioning experiments","text":"<p>This serves to test various ways or versioning documentation.</p> <ol> <li>Versioning with Mike</li> </ol>"}]}
